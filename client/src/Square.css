@@ -1,0 +1,31 @@
+.square {
+    float: left;
+    font-size: 1.5em;
+    border: 0px;
+    font-weight: bold;
+    line-height: 50px;
+    height: 50px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 50px;
+}
+.blue {
+    background: rgb(155,194,230);
+}
+.dark {
+    background: #B58763;
+}
+.green {
+    background: rgb(198,239,206);
+}
+.light {
+    background: #F0DAB5;
+}
+.red {
+    background: rgb(255,199,206);
+}
+.white {
+    color: #fff;    
+}

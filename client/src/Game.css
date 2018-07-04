@@ -1,0 +1,28 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+}
+#container {
+    align-content: center;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.board-row:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+.status {
+    margin-bottom: 10px;
+}
+
+.game {
+    display: flex;
+    flex-direction: row;
+}
+.game-info {
+    margin-left: 20px;
+}
+#info {
+    margin-top: 20px;
+}
